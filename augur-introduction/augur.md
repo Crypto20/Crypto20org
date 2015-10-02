@@ -4,7 +4,7 @@ Image Cover: logo-purple.png
 
 Published: [http://www.crypto20.org/augur/](http://www.crypto20.org/augur/)
 
-Augur is a Decentralized Prediction Market Platform. Augur open-source platform is built on the Ethereum blockchain for any and all predictive markets, intended to revolutionize forecasting, decision making, and the manner in which information is collected and aggregated.
+Augur is a Decentralized Prediction Market Platform. Augur open-source platform is built on top of the Ethereum blockchain for any and all predictive markets, intended to revolutionize forecasting, decision making, and the manner in which information is collected and aggregated.
 
 Website: [http://www.augur.net/](http://www.augur.net/)
 
@@ -17,9 +17,9 @@ Prediction markets allow their users to buy and sell shares in the outcome of an
 
 Historically, prediction markets have fallen short due to dated jurisdictional regulation, lack of volume due to limited payment options, a paltry number of markets, and sometimes even paying out the wrong people!
  
-The root of these problems stems from centralization — an issue solved by blockchain technology. Our prediction markets eliminate counterparty risks, centralized servers, and create a global market by employing cryptocurrencies including bitcoin, ether, and stable cryptocurrencies. All funds are stored in smart contracts, and no one can steal the money. 
+The root of these problems stems from centralization — an issue solved by blockchain technology. Augur's prediction markets try to eliminate the inherited risk of counterparty and centralized servers, creating a global market by employing cryptocurrencies including bitcoin, ether, and stable cryptocurrencies. All funds are stored in smart contracts, and no one can steal the money. 
  
-Augur's interface is currently in English, but we have plans to make it available in other common languages, starting with Chinese and Spanish.
+Augur's interface is currently in English, but there are plans to make it available in other common languages, starting with Chinese and Spanish.
 
 ### Reputation
 
