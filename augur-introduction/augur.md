@@ -10,7 +10,7 @@ Website: [http://www.augur.net/](http://www.augur.net/)
 
 Demo: [http://client.augur.net/](http://client.augur.net/)
 
-White Paper [http://www.augur.link/augur.pdf](http://www.augur.link/augur.pdf)
+White Paper: [http://www.augur.link/augur.pdf](http://www.augur.link/augur.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dweuE2DC4DI" frameborder="0" allowfullscreen></iframe>
 
