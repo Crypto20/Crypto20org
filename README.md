@@ -21,3 +21,5 @@ The category or categories listing the projects.
 
 A project due to its complexity might require multiple areas / introductions.  For example a project might be an exchange, asset, smart coin, bond market, smart contracts, etc. In this scenario separate folders can be created to expand the initial introduction.
 
+### Announcements
+Once introductions are completed, annoucements (new version, technical improvements, etc) can be made as part the news section.
