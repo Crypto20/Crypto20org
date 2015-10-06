@@ -23,3 +23,11 @@ A project due to its complexity might require multiple areas / introductions.  F
 
 ### Announcements
 Once introductions are completed, annoucements (new version, technical improvements, etc) can be made as part the news section.
+
+### Twitter
+The twitter account is: 
+There is a list for projects here: https://twitter.com/crypto20org/lists/crypto-2-0-projects, create an issue here to be added and / or update.
+
+### Youtube
+The youtube channel is here: https://www.youtube.com/channel/UC43F3hY1B8ZV-sHWPEfFN3g
+To be added / remove / update a video to the playlists (currently only intruductions), create an issue here to do the update.
