@@ -25,7 +25,8 @@ A project due to its complexity might require multiple areas / introductions.  F
 Once introductions are completed, annoucements (new version, technical improvements, etc) can be made as part the news section.
 
 ### Twitter
-The twitter account is: 
+The twitter account is: https://twitter.com/crypto20org/
+
 There is a list for projects here: https://twitter.com/crypto20org/lists/crypto-2-0-projects, create an issue here to be added and / or update.
 
 ### Youtube
