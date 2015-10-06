@@ -1,6 +1,6 @@
 # Crypto 2.0 (Crypto20.org)
 
-Repository for the creation, collaboration and update of the documents describing the different Crypto 2.0 projects and technologies listed in Crypto20.org. Please feel free to create a pull request to update the information of any of the projects listed, or simply create a new project structure for a project not listed.
+Repository for the creation, collaboration and update of the documents describing the different Crypto 2.0 projects and technologies listed in [Crypto20.org](http://crypto20.org). Please feel free to create a pull request to update the information of any of the projects listed, or simply create a new project structure for a project not listed.
 
 Rules for submission, it should describe what the project does, it should stick to facts of what it does or aims to achive.
 
